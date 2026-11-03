@@ -8,7 +8,7 @@
 .dot{fill:#BFFFF4;opacity:0;animation:pop 6s ease-in-out infinite}
 .ring{fill:none;stroke:#00C5A8;stroke-width:1.5;transform-origin:center;transform-box:fill-box;animation:pulse 2.4s ease-out infinite}
 .grid{fill:#1A2332}
-.txt{font:600 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8B98A5;letter-spacing:3px}
+.txt{font:600 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8B98A5;letter-spacing:1px}
 .ar{font:500 22px "Amiri","Scheherazade New","Geeza Pro",serif;fill:#BFFFF4}
 @keyframes draw{0%{stroke-dashoffset:400}45%,80%{stroke-dashoffset:0;opacity:.75}100%{stroke-dashoffset:0;opacity:0}}
 @keyframes pop{0%,10%{opacity:0}25%,85%{opacity:1}100%{opacity:0}}
@@ -435,5 +435,5 @@
 <circle class="ring" style="animation-delay:1.2s" cx="410" cy="118" r="6"/>
 <circle cx="410" cy="118" r="5" fill="#00C5A8"/>
 <text class="ar" x="360.0" y="204" text-anchor="middle" direction="rtl">لَبَّيْكَ</text>
-<text class="txt" x="360.0" y="226" text-anchor="middle">ONE UMMAH · CONNECTED</text>
+<text class="txt" x="360.0" y="226" text-anchor="middle">one ummah, connected</text>
 </svg>

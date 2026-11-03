@@ -1,49 +1,45 @@
-<!-- Header wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1018,50:0D2B2A,100:00C5A8&height=200&section=header&text=Assalamu%20alaikum%2C%20I'm%20Saif&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%E2%80%A2%20Web3%20%E2%80%A2%20Labbaik&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1018,50:0D2B2A,100:00C5A8&height=200&section=header&text=salaam%2C%20i'm%20saif&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=ai%20%C2%B7%20web3%20%C2%B7%20labbaik&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="salaam, i'm saif"/>
 </p>
 
-<!-- Typing line -->
 <p align="center">
   <a href="https://uselabbaik.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=00C5A8&center=true&vCenter=true&multiline=false&width=560&lines=Blockchain+plumber+by+day+%F0%9F%94%A7;Connecting+the+ummah+by+night+%F0%9F%8C%99;Teaching+machines+to+be+actually+useful+%F0%9F%A4%96;Building+Labbaik%2C+one+small+step+at+a+time+%F0%9F%95%8B" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3200&pause=1100&color=00C5A8&center=true&vCenter=true&width=560&lines=blockchain+plumber+by+day;building+labbaik+by+night;poking+at+ai+to+see+what's+actually+useful;mostly+just+trying+to+be+helpful" alt="blockchain plumber by day, building labbaik by night"/>
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./assets/ummah-network.svg" width="720" alt="Dots across the world slowly lighting up and joining together"/>
+  <img src="./assets/ummah-network.svg" width="720" alt="dots across the world slowly lighting up and joining together"/>
 </p>
 
-## 👋 A little about me
+### hey 👋
 
-I spend my days keeping blockchains talking to each other, and my evenings building something I really care about.
+i keep blockchains talking to each other for a living, and spend my evenings on something i actually care about.
 
-- 🔧 **By day** — I work on Web3 infrastructure, making sure nodes stay healthy and requests get where they need to go.
-- 🤖 **Always** — I'm curious about AI. Not the hype, just the bits that save people time and make tools kinder to use.
-- 🕋 **By night** — I'm building **[Labbaik](https://uselabbaik.com)**, a way to bring Muslims together, wherever they are.
-- 🌱 **Right now** — learning, shipping small things, and trying to leave each project a bit better than I found it.
+- 🔧 **day job** — web3 infra. nodes, rpc, making sure requests get where they're going
+- 🤖 **side quest** — ai, the useful bits. less hype, more "oh nice, that saved me an hour"
+- 🕋 **night shift** — building [labbaik](https://uselabbaik.com), a way for muslims to find and look after each other
+- 🌱 **lately** — shipping small things and trying not to overthink it
 
 <br/>
 
-## 🕋 Labbaik
+### labbaik 🕋
 
-> *Labbaik* — "Here I am, answering Your call."
+> *labbaik* — "here i am, answering your call"
 
-The ummah is huge, but it can feel scattered. Labbaik is my attempt to close that gap: simple tools that help communities, organisers and families find each other and look after one another.
+the ummah is massive but it can feel pretty scattered. labbaik is my go at fixing that. simple tools so communities, organisers and families can find each other and show up for one another.
 
-No noise. No gimmicks. Just making it easier to show up for each other.
+nothing flashy. just useful.
 
 <p align="center">
-  <a href="https://uselabbaik.com">
-    <img src="https://img.shields.io/badge/Visit-uselabbaik.com-00C5A8?style=for-the-badge&labelColor=0C1018" alt="Visit Labbaik"/>
-  </a>
+  <a href="https://uselabbaik.com"><img src="https://img.shields.io/badge/uselabbaik.com-00C5A8?style=flat&labelColor=0C1018&color=0C1018&logo=googlechrome&logoColor=00C5A8" alt="uselabbaik.com"/></a>
 </p>
 
 <br/>
 
-## 🧰 Things I build with
+### stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=FFD43B" alt="python"/>
@@ -61,49 +57,36 @@ No noise. No gimmicks. Just making it easier to show up for each other.
   <img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="grafana"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">🤖<br/><b>AI</b><br/><sub>agents, LLM tooling,<br/>automation that helps</sub></td>
-    <td align="center" width="33%">⛓️<br/><b>Web3</b><br/><sub>RPC, nodes, infra,<br/>on-chain data</sub></td>
-    <td align="center" width="33%">🤝<br/><b>Community</b><br/><sub>tools for the ummah,<br/>built with care</sub></td>
-  </tr>
-</table>
-
 <br/>
 
-## 📈 Quietly committing
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaifHarding&theme=dark&hide_border=true&background=0C1018&ring=00C5A8&fire=00C5A8&currStreakLabel=00C5A8&sideLabels=FFFFFF&dates=8B98A5" height="165" alt="streak"/>
-</p>
+### commits, slowly
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaifHarding/SaifHarding/output/snake.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaifHarding/SaifHarding/output/snake-light.svg"/>
-    <img src="https://raw.githubusercontent.com/SaifHarding/SaifHarding/output/snake.svg" width="100%" alt="Snake eating my contribution graph"/>
+    <img src="https://raw.githubusercontent.com/SaifHarding/SaifHarding/output/snake.svg" width="100%" alt="a snake eating my contribution graph"/>
   </picture>
 </p>
 
 <br/>
 
-## 💬 Say salaam
+### say salaam
 
-I'm always happy to chat about AI, Web3, or ideas that help people. If you're building something for the community, I'd love to hear about it.
+always up for a chat about ai, web3, or anything that helps people. if you're building something for the community, i'd love to hear about it.
 
 <p align="center">
-  <a href="https://uselabbaik.com"><img src="https://img.shields.io/badge/Labbaik-0C1018?style=for-the-badge&logo=googlechrome&logoColor=00C5A8" alt="Labbaik"/></a>
-  <a href="https://github.com/SaifHarding"><img src="https://img.shields.io/badge/GitHub-0C1018?style=for-the-badge&logo=github&logoColor=00C5A8" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/saifharding"><img src="https://img.shields.io/badge/LinkedIn-0C1018?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwQzVBOCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
+  <a href="https://uselabbaik.com"><img src="https://img.shields.io/badge/labbaik-0C1018?style=flat&logo=googlechrome&logoColor=00C5A8" alt="labbaik"/></a>
+  <a href="https://github.com/SaifHarding"><img src="https://img.shields.io/badge/github-0C1018?style=flat&logo=github&logoColor=00C5A8" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/saifharding"><img src="https://img.shields.io/badge/linkedin-0C1018?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwQzVBOCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="linkedin"/></a>
+</p>
+
+<p align="center"><sub><i>"the best of people are those who are most beneficial to others."</i></sub></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaifHarding&color=0C1018&style=flat&label=visitors" alt="visitors"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaifHarding&color=00C5A8&style=flat-square&label=visitors" alt="visitors"/>
-</p>
-
-<p align="center"><sub><i>"The best of people are those who are most beneficial to others."</i></sub></p>
-
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C5A8,50:0D2B2A,100:0C1018&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C5A8,50:0D2B2A,100:0C1018&height=120&section=footer" width="100%" alt=""/>
 </p>
