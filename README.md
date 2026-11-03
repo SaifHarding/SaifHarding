@@ -31,7 +31,7 @@ i help keep the decentralised internet running for a living, and spend my evenin
 
 the ummah is massive but it can feel pretty scattered. labbaik is my go at fixing that. simple tools so communities, organisers and families can find each other and show up for one another.
 
-nothing flashy. just useful.
+it's clean, modern and easy enough that anyone can pick it up and get going.
 
 <p align="center">
   <a href="https://uselabbaik.com"><img src="https://img.shields.io/badge/uselabbaik.com-00C5A8?style=flat&labelColor=0C1018&color=0C1018&logo=googlechrome&logoColor=00C5A8" alt="uselabbaik.com"/></a>
