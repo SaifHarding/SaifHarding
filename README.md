@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1018,50:0D2B2A,100:00C5A8&height=200&section=header&text=salaam%2C%20i'm%20saif&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=ai%20%C2%B7%20web3%20%C2%B7%20labbaik&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="salaam, i'm saif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1018,50:0D2B2A,100:00C5A8&height=200&section=header&text=salam%2C%20i'm%20saif&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=ai%20%C2%B7%20web3%20%C2%B7%20labbaik&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="salam, i'm saif"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ nothing flashy. just useful.
 
 <br/>
 
-### say salaam
+### say salam
 
 always up for a chat about ai, web3, or anything that helps people. if you're building something for the community, i'd love to hear about it.
 
