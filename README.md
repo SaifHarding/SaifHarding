@@ -94,7 +94,7 @@ I'm always happy to chat about AI, Web3, or ideas that help people. If you're bu
 <p align="center">
   <a href="https://uselabbaik.com"><img src="https://img.shields.io/badge/Labbaik-0C1018?style=for-the-badge&logo=googlechrome&logoColor=00C5A8" alt="Labbaik"/></a>
   <a href="https://github.com/SaifHarding"><img src="https://img.shields.io/badge/GitHub-0C1018?style=for-the-badge&logo=github&logoColor=00C5A8" alt="GitHub"/></a>
-  <!-- Add more: LinkedIn / X / email -->
+  <a href="https://www.linkedin.com/in/saifharding"><img src="https://img.shields.io/badge/LinkedIn-0C1018?style=for-the-badge&logo=linkedin&logoColor=00C5A8" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
