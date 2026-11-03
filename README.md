@@ -78,7 +78,11 @@ No noise. No gimmicks. Just making it easier to show up for each other.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifHarding&bg_color=0C1018&color=FFFFFF&line=00C5A8&point=BFFFF4&area=true&area_color=00C5A8&hide_border=true&custom_title=Little%20by%20little" width="100%" alt="activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaifHarding/SaifHarding/output/snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaifHarding/SaifHarding/output/snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/SaifHarding/SaifHarding/output/snake.svg" width="100%" alt="Snake eating my contribution graph"/>
+  </picture>
 </p>
 
 <br/>
