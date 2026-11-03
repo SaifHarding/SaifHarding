@@ -16,7 +16,7 @@
 
 ### hey 👋
 
-i keep blockchains talking to each other for a living, and spend my evenings on something i actually care about.
+i help keep the decentralised internet running for a living, and spend my evenings building labbaik. honestly, i care about both.
 
 - 🔧 **day job** — web3 infra. nodes, rpc, making sure requests get where they're going
 - 🤖 **side quest** — ai, the useful bits. less hype, more "oh nice, that saved me an hour"
