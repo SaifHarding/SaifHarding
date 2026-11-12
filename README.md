@@ -1,6 +1,6 @@
 ### hey, i'm saif 👋
 
-blockchain plumber at [@quiknode-labs](https://github.com/quiknode-labs). i keep rpc flowing between your wallet and the chain, then go home and teach ai agents to do my job.
+node therapist at [@quiknode-labs](https://github.com/quiknode-labs). i talk rpc endpoints through their problems so your wallet can reach the chain, then switch tabs and teach ai agents to do my job.
 
 they're getting quite good at it. i've decided not to worry about that.
 
